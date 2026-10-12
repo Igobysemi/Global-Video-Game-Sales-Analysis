@@ -97,3 +97,16 @@ business intelligence tools.
 The analysis highlights historical sales trends,
 market leaders, and regional performance across
 the global video game industry.
+
+## 💻 SQL Skills Demonstrated
+
+- Data cleaning and filtering
+- Aggregate functions: SUM(), AVG(), COUNT()
+- GROUP BY and HAVING
+- Common Table Expressions (CTEs)
+- CASE WHEN statements
+- Window functions: RANK(), DENSE_RANK()
+- PARTITION BY
+- Sorting and ranking
+- Regional and global sales analysis
+- Data visualization and dashboard development
