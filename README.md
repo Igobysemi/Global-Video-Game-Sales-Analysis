@@ -9,6 +9,10 @@ regional market performance, and industry leaders.
 This project demonstrates SQL querying, data aggregation,
 data visualization, and business intelligence reporting.
 
+## 📊 Interactive Dashboard Preview
+
+![Global Video Game Sales Dashboard](dashboard.png)
+
 ## 🛠️ Tools & Technologies
 
 - SQL (DuckDB)
